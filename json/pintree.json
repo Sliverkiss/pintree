@@ -7,11 +7,943 @@
 		"addDate": 1718526865665,
 		"title": "Scripts",
 		"children": [{
-			"type": "link",
-			"addDate": 1718526687700,
-			"title": "雨晨ios签到",
-			"icon": "https://raw.githubusercontent.com/Sliverkiss/QuantumultX/main/icon/yuchenios.png",
-			"url": "https://gist.githubusercontent.com/Sliverkiss/9aab5b214f3145e39639a2581e83bb27/raw/yuchenios.js"
-		}]
+				"type": "link",
+				"addDate": 1718526687700,
+				"title": "🌸Sakura樱花交流会",
+				"icon": "https://avatars.githubusercontent.com/u/70052878?v=4",
+				"url": "https://github.com/Sliverkiss"
+			},
+			{
+				"type": "link",
+				"addDate": 1718526687700,
+				"title": "奶茶多合一",
+				"icon": "https://raw.githubusercontent.com/Sliverkiss/QuantumultX/main/icon/teaMilk.png",
+				"url": "https://gist.githubusercontent.com/Sliverkiss/8b4f5487e0f28786c7dec9c7484dcd5e/raw/teaMilk.js"
+			},
+			{
+				"type": "link",
+				"addDate": 1718526687700,
+				"title": "Sakura Checkbox",
+				"icon": "https://raw.githubusercontent.com/Sliverkiss/QuantumultX/main/icon/Checkbox.png",
+				"url": "https://gist.githubusercontent.com/Sliverkiss/585daf69a0a6c7243db8993f5394a124/raw/youzan.js"
+			},
+			{
+				"type": "link",
+				"addDate": 1718526687700,
+				"title": "中免会员小程序签到",
+				"icon": "https://raw.githubusercontent.com/Sliverkiss/QuantumultX/main/icon/Zmhy.png",
+				"url": "https://gist.githubusercontent.com/Sliverkiss/7f16bab92e312d1f0e520ca20d389924/raw/29b180093d17edd6ccf0a6fdce14a8d9ec7b06df/zmhy.js"
+			},
+			{
+				"type": "link",
+				"addDate": 1718526687700,
+				"title": "高德地图打车签到",
+				"icon": "https://raw.githubusercontent.com/Sliverkiss/QuantumultX/main/icon/Gddt.png",
+				"url": "https://raw.githubusercontent.com/wf021325/qx/master/task/ampDache.js"
+			},
+			{
+				"type": "link",
+				"addDate": 1718526687700,
+				"title": "米游社小助手",
+				"icon": "https://raw.githubusercontent.com/kayanouriko/quantumultx-mihoyobbs-auto-helper/main/assets/gallery-icon.png",
+				"url": "https://raw.githubusercontent.com/kayanouriko/quantumultx-mihoyobbs-auto-helper/main/src/mihoyobbs-auto-helper.js"
+			},
+			{
+				"type": "link",
+				"addDate": 1718526687700,
+				"title": "森空岛小助手",
+				"icon": "https://raw.githubusercontent.com/kayanouriko/quantumultx-skland-auto-sign/main/assets/gallery-icon.png",
+				"url": "https://raw.githubusercontent.com/kayanouriko/quantumultx-skland-auto-sign/main/src/skland-auto-sign.js"
+			},
+			{
+				"type": "link",
+				"addDate": 1718526687700,
+				"title": "松鼠ios签到",
+				"icon": "https://raw.githubusercontent.com/Sliverkiss/QuantumultX/main/icon/Sxios.jpg",
+				"url": "https://raw.githubusercontent.com/Sliverkiss/GoodNight/master/Script/sxios.js"
+			},
+			{
+				"type": "link",
+				"addDate": 1718526687700,
+				"title": "雨晨ios签到",
+				"icon": "https://raw.githubusercontent.com/Sliverkiss/QuantumultX/main/icon/yuchenios.png",
+				"url": "https://raw.githubusercontent.com/Sliverkiss/GoodNight/master/Script/yuchenios.js"
+			},
+			{
+				"type": "link",
+				"addDate": 1718526687700,
+				"title": "亚朵酒店签到",
+				"icon": "https://raw.githubusercontent.com/Sliverkiss/QuantumultX/main/icon/Adjd.png",
+				"url": "https://gist.githubusercontent.com/Sliverkiss/2e2093bfd5f524d58c8e90fed9beacfd/raw/e399523e428f3c173ec4b95c892725006c3128ff/adjd.js"
+			},
+			{
+				"type": "link",
+				"addDate": 1718526687700,
+				"title": "腕表之家签到",
+				"icon": "https://raw.githubusercontent.com/Sliverkiss/QuantumultX/main/icon/Wbzj.png",
+				"url": "https://raw.githubusercontent.com/wf021325/qx/master/task/wbzj.js"
+			},
+			{
+				"type": "link",
+				"addDate": 1718526687700,
+				"title": "起点读书",
+				"icon": "https://raw.githubusercontent.com/chxm1023/Script_X/main/icon/qidian.png",
+				"url": "https://raw.githubusercontent.com/MCdasheng/QuantumultX/main/Scripts/myScripts/qidian/qidian.js"
+			},
+			{
+				"type": "link",
+				"addDate": 1718526687700,
+				"title": "AcFun签到",
+				"icon": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/acfun.png",
+				"url": "https://raw.githubusercontent.com/MCdasheng/QuantumultX/main/Scripts/myScripts/acfun.js"
+			},
+			{
+				"type": "link",
+				"addDate": 1718526687700,
+				"title": "天翼云盘",
+				"icon": "https://raw.githubusercontent.com/Sliverkiss/QuantumultX/main/icon/Tyyp.png",
+				"url": "https://raw.githubusercontent.com/MCdasheng/QuantumultX/main/Scripts/myScripts/ty.js"
+			},
+			{
+				"type": "link",
+				"addDate": 1718526687700,
+				"title": "macat签到",
+				"icon": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Skicat.png",
+				"url": "https://raw.githubusercontent.com/MCdasheng/QuantumultX/main/Scripts/myScripts/macat.js"
+			},
+			{
+				"type": "link",
+				"addDate": 1718526687700,
+				"title": "途虎养车积分签到",
+				"icon": "https://raw.githubusercontent.com/Crazy-Z7/Task/main/Image/IMG_0905.jpeg",
+				"url": "https://raw.githubusercontent.com/Crazy-Z7/Task/main/Tuhyche.js"
+			},
+			{
+				"type": "link",
+				"addDate": 1718526687700,
+				"title": "小豆苗app签到",
+				"icon": "https://raw.githubusercontent.com/Sliverkiss/QuantumultX/main/icon/Xdm.png",
+				"url": "https://raw.githubusercontent.com/wf021325/qx/master/task/xdm.js"
+			},
+			{
+				"type": "link",
+				"addDate": 1718526687700,
+				"title": "华住会",
+				"icon": "https://raw.githubusercontent.com/Sliverkiss/QuantumultX/main/icon/Hzh.png",
+				"url": "https://raw.githubusercontent.com/wf021325/qx/master/task/hzh.js"
+			},
+			{
+				"type": "link",
+				"addDate": 1718526687700,
+				"title": "捷停车签到",
+				"icon": "https://raw.githubusercontent.com/Sliverkiss/QuantumultX/main/icon/Jtc.png",
+				"url": "https://raw.githubusercontent.com/FoKit/Scripts/main/scripts/jparking_sign.js"
+			},
+			{
+				"type": "link",
+				"addDate": 1718526687700,
+				"title": "美团买菜任务",
+				"icon": "https://raw.githubusercontent.com/Sliverkiss/QuantumultX/main/icon/Mtmc.png",
+				"url": "https://raw.githubusercontent.com/JoJoJotarou/myScript/master/script/meituan/mall.meituan.mallcoin.task.js"
+			},
+			{
+				"type": "link",
+				"addDate": 1718526687700,
+				"title": "元气森林会员中心",
+				"icon": "https://raw.githubusercontent.com/Raphael689/RW/master/iCons/yqsl.png",
+				"url": "https://raw.githubusercontent.com/Raphael689/RW/master/Scripts/yqslhy.js"
+			},
+			{
+				"type": "link",
+				"addDate": 1718526687700,
+				"title": "哈啰单车奖励金签到",
+				"icon": "https://raw.githubusercontent.com/Sliverkiss/QuantumultX/main/icon/Hldc.png",
+				"url": "https://gist.githubusercontent.com/Sliverkiss/4e0081f7b18a2cea9dbdf13545e60885/raw/d53857028ced29aed98affb5d4a602b2a8bf94cf/hldc.js"
+			},
+			{
+				"type": "link",
+				"addDate": 1718526687700,
+				"title": "知轩藏书签到",
+				"icon": "https://raw.githubusercontent.com/Sliverkiss/QuantumultX/main/icon/Zxcs.png",
+				"url": "https://raw.githubusercontent.com/Sliverkiss/GoodNight/master/Script/zhixuan.js"
+			},
+			{
+				"type": "link",
+				"addDate": 1718526687700,
+				"title": "阿里云签到",
+				"icon": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/AliYunDrive.png",
+				"url": "https://gist.githubusercontent.com/Sliverkiss/33800a98dcd029ba09f8b6fc6f0f5162/raw/aliyun.js"
+			},
+			{
+				"type": "link",
+				"addDate": 1718526687700,
+				"title": "什么值得买每日签到",
+				"icon": "https://raw.githubusercontent.com/Sliverkiss/QuantumultX/main/icon/Smzdm.png",
+				"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/smzdm/smzdm_daily.js"
+			},
+			{
+				"type": "link",
+				"addDate": 1718526687700,
+				"title": "百度贴吧",
+				"icon": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/tieba/tieba.png",
+				"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/tieba/tieba_signin.js"
+			},
+			{
+				"type": "link",
+				"addDate": 1718526687700,
+				"title": "花夏ios签到",
+				"icon": "https://raw.githubusercontent.com/Sliverkiss/QuantumultX/main/icon/Hxsy.jpg",
+				"url": "https://gist.githubusercontent.com/Sliverkiss/f06235486565837c18435b40d99229e5/raw/d3e51037e9d46f668161172c58a93319681b3382/hxsy.js"
+			},
+			{
+				"type": "link",
+				"addDate": 1718526687700,
+				"title": "网上国电费查询",
+				"icon": "https://raw.githubusercontent.com/Sliverkiss/QuantumultX/main/icon/Wsgw.jpg",
+				"url": "https://raw.githubusercontent.com/Yuheng0101/X/main/Tasks/95598/95598.js"
+			},
+			{
+				"type": "link",
+				"addDate": 1718526687700,
+				"title": "海信爱家",
+				"icon": "https://github.com/FoKit/Scripts/raw/main/images/hisense.png",
+				"url": "https://raw.githubusercontent.com/FoKit/Scripts/main/scripts/Hisense.js"
+			},
+			{
+				"type": "link",
+				"addDate": 1718526687700,
+				"title": "TestFlight自动加入",
+				"icon": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/testflight.png",
+				"url": "https://raw.githubusercontent.com/MCdasheng/QuantumultX/main/Scripts/myScripts/TestFlight.js"
+			},
+			{
+				"type": "link",
+				"addDate": 1718526687700,
+				"title": "雀巢会员俱乐部签到",
+				"icon": "https://raw.githubusercontent.com/Sliverkiss/QuantumultX/main/icon/Nestle.png",
+				"url": "https://gist.githubusercontent.com/Sliverkiss/f533ada8d658a0cbbe4b2e791c3b0ac8/raw/be3d9b74fe1cde69e6d39b599e5526110c996958/nestle.js"
+			},
+			{
+				"type": "link",
+				"addDate": 1718526687700,
+				"title": "Switch520签到",
+				"icon": "https://raw.githubusercontent.com/Sliverkiss/QuantumultX/main/icon/Switch.png",
+				"url": "https://gist.githubusercontent.com/Sliverkiss/3d9c00790143eba146c3ba798eda4696/raw/switch520.js"
+			},
+			{
+				"type": "link",
+				"addDate": 1718526687700,
+				"title": "夸克网盘签到",
+				"icon": "https://raw.githubusercontent.com/Sliverkiss/QuantumultX/main/icon/Quark.png",
+				"url": "https://gist.githubusercontent.com/Sliverkiss/1589f69e675019b0b685a57a89de9ea5/raw/quarkV2.js"
+			},
+			{
+				"type": "link",
+				"addDate": 1718526687700,
+				"title": "Boxjs备份",
+				"icon": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/BoxJS.png",
+				"url": "https://raw.githubusercontent.com/dompling/Script/master/gist/backup.js"
+			},
+			{
+				"type": "link",
+				"addDate": 1718526687700,
+				"title": "Boxjs恢复",
+				"icon": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/BoxJS.png",
+				"url": "https://raw.githubusercontent.com/dompling/Script/master/gist/restore.js"
+			},
+			{
+				"type": "link",
+				"addDate": 1718526687700,
+				"title": "Sub-Store",
+				"icon": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/SubStore.png",
+				"url": "https://github.com/sub-store-org/Sub-Store/releases/latest/download/cron-sync-artifacts.min.js"
+			},
+			{
+				"type": "link",
+				"addDate": 1718526687700,
+				"title": "轻之文库",
+				"icon": "https://raw.githubusercontent.com/Sliverkiss/QuantumultX/main/icon/Linovel.png",
+				"url": "https://gist.githubusercontent.com/Sliverkiss/a56aaa31bbc01191590b9c4c5c698751/raw/linovel.js"
+			},
+			{
+				"type": "link",
+				"addDate": 1718526687700,
+				"title": "美团签到",
+				"icon": "https://qxnav.com/rules/QuantumultX/img/meituan.png",
+				"url": "https://raw.githubusercontent.com/chavyleung/scripts/master/meituan/meituan.js"
+			},
+			{
+				"type": "link",
+				"addDate": 1718526687700,
+				"title": "STLXZ签到",
+				"icon": "https://raw.githubusercontent.com/Sliverkiss/QuantumultX/main/icon/Stlxz.png",
+				"url": "https://gist.githubusercontent.com/Sliverkiss/b1b8b87351ff3aca189c5addaa054430/raw/stlxz.js"
+			},
+			{
+				"type": "link",
+				"addDate": 1718526687700,
+				"title": "B站每日等级任务",
+				"icon": "https://raw.githubusercontent.com/Orz-3/mini/master/Alpha/bilibili.png",
+				"url": "https://raw.githubusercontent.com/ClydeTime/Quantumult/main/Script/Task/BiliBili.js"
+			},
+			{
+				"type": "link",
+				"addDate": 1718526687700,
+				"title": "巴哈姆特签到",
+				"icon": "https://raw.githubusercontent.com/NobyDa/mini/master/Color/bahamutGame.png",
+				"url": "https://raw.githubusercontent.com/NobyDa/Script/master/Bahamut/BahamutDailyBonus.js"
+			},
+			{
+				"type": "link",
+				"addDate": 1718526687700,
+				"title": "喜马拉雅签到任务",
+				"icon": "https://raw.githubusercontent.com/HuiDoY/Icon/main/mini/Color/ximalaya.png",
+				"url": "https://raw.githubusercontent.com/ClydeTime/Quantumult/main/Script/Task/xmlySign.js"
+			},
+			{
+				"type": "link",
+				"addDate": 1718526687700,
+				"title": "奇瑞汽车",
+				"icon": "https://raw.githubusercontent.com/Sliverkiss/QuantumultX/main/icon/Chery.png",
+				"url": "https://raw.githubusercontent.com/smallfawn/QLScriptPublic/main/chery.js"
+			},
+			{
+				"type": "link",
+				"addDate": 1718526687700,
+				"title": "巴奴毛肚火锅签到",
+				"icon": "https://raw.githubusercontent.com/Sliverkiss/QuantumultX/main/icon/Bnmdhg.png",
+				"url": "https://raw.githubusercontent.com/smallfawn/QLScriptPublic/main/bnmdhg_wx.js"
+			},
+			{
+				"type": "link",
+				"addDate": 1718526687700,
+				"title": "鸿星尔克签到",
+				"icon": "https://raw.githubusercontent.com/Sliverkiss/QuantumultX/main/icon/Hxek.png",
+				"url": "https://raw.githubusercontent.com/Sliverkiss/GoodNight/master/Script/hxek.js"
+			},
+			{
+				"type": "link",
+				"addDate": 1718526687700,
+				"title": "建行生活",
+				"icon": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/ccbLife.jpg",
+				"url": "https://raw.githubusercontent.com/FoKit/Scripts/main/scripts/jhsh_checkIn.js"
+			},
+			{
+				"type": "link",
+				"addDate": 1718526687700,
+				"title": "达美乐披萨",
+				"icon": "https://raw.githubusercontent.com/Sliverkiss/QuantumultX/main/icon/Dlm.png",
+				"url": "https://gist.githubusercontent.com/Sliverkiss/6b4da0d367d13790a9fd1d928c82bdf8/raw/dlm.js"
+			},
+			{
+				"type": "link",
+				"addDate": 1718526687700,
+				"title": "托迈酷客",
+				"icon": "https://raw.githubusercontent.com/Sliverkiss/QuantumultX/main/icon/Tmkk.png",
+				"url": "https://raw.githubusercontent.com/FoKit/Scripts/main/scripts/ThomasCook.js"
+			},
+			{
+				"type": "link",
+				"addDate": 1718526687700,
+				"title": "携程旅行签到",
+				"icon": "https://raw.githubusercontent.com/NobyDa/mini/master/Color/ctrip.png",
+				"url": "https://raw.githubusercontent.com/NobyDa/Script/master/Ctrip-DailyBonus/Ctrip.js"
+			},
+			{
+				"type": "link",
+				"addDate": 1718526687700,
+				"title": "爱奇艺签到",
+				"icon": "https://raw.githubusercontent.com/NobyDa/mini/master/Color/iQIYI.png",
+				"url": "https://raw.githubusercontent.com/NobyDa/Script/master/iQIYI-DailyBonus/iQIYI.js"
+			},
+			{
+				"type": "link",
+				"addDate": 1718526687700,
+				"title": "动漫之家日常任务",
+				"icon": "https://raw.githubusercontent.com/Sliverkiss/QuantumultX/main/icon/Dmzj.png",
+				"url": "https://gist.githubusercontent.com/Sliverkiss/50a2046b37e01bb8f10ab0420d6f2a91/raw/dmzj.js"
+			},
+			{
+				"type": "link",
+				"addDate": 1718526687700,
+				"title": "Hax数据监控",
+				"icon": "https://raw.githubusercontent.com/Sliverkiss/QuantumultX/main/icon/Hax.png",
+				"url": "https://gist.githubusercontent.com/Sliverkiss/c92ff545b2c48da565c029720c5282db/raw/hax.js"
+			},
+			{
+				"type": "link",
+				"addDate": 1718526687700,
+				"title": "微博超话",
+				"icon": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Weibo-04.png",
+				"url": "https://raw.githubusercontent.com/toulanboy/scripts/master/weibo/weibotalk.js"
+			},
+			{
+				"type": "link",
+				"addDate": 1718526687700,
+				"title": "ChinaBroadnet",
+				"icon": "https://raw.githubusercontent.com/czy13724/LeviIcons/main/leviicons/ChinaBroadnet.png",
+				"url": "https://github.com/wuhuhuuuu/study/raw/main/Scripts/ChinaBroadnet/ChinaBroadnet.js"
+			},
+			{
+				"type": "link",
+				"addDate": 1718526687700,
+				"title": "刺猬猫",
+				"icon": "https://raw.githubusercontent.com/Sliverkiss/QuantumultX/main/icon/Cwm.png",
+				"url": "https://gist.githubusercontent.com/Sliverkiss/30fdcccce0b9ea6f248e49adf3aa8ea9/raw/hbooker.js"
+			},
+			{
+				"type": "link",
+				"addDate": 1718526687700,
+				"title": "慢慢买",
+				"icon": "https://raw.githubusercontent.com/chxm1023/Task/main/icon/manmanmai.png",
+				"url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/manmanbuy/manmanbuy_checkin.js"
+			},
+			{
+				"type": "link",
+				"addDate": 1718526687700,
+				"title": "波点音乐自动签到",
+				"icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/05/b9/57/05b9577c-3773-cd2b-5a99-49c0dc3f331d/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/144x144.png",
+				"url": "https://raw.githubusercontent.com/Yuheng0101/X/main/Tasks/Bdyy/bdyy.js"
+			},
+			{
+				"type": "link",
+				"addDate": 1718526687700,
+				"title": "美的会员签到",
+				"icon": "https://raw.githubusercontent.com/Sliverkiss/QuantumultX/main/icon/Midea.png",
+				"url": "https://gist.githubusercontent.com/Sliverkiss/3c0239a09cbe381c572a826a5caf5621/raw/midea.js"
+			},
+			{
+				"type": "link",
+				"addDate": 1718526687700,
+				"title": "网易云音乐人",
+				"icon": "https://raw.githubusercontent.com/sliverkiss/QuantumultX/main/icon/wyyyy.png",
+				"url": "https://raw.githubusercontent.com/leiyiyan/resource/main/script/netease_musician/task.js"
+			},
+			{
+				"type": "link",
+				"addDate": 1718526687700,
+				"title": "Sub-Store",
+				"icon": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/SubStore.png",
+				"url": "https://github.com/sub-store-org/Sub-Store/releases/latest/download/cron-sync-artifacts.min.js"
+			},
+			{
+				"type": "link",
+				"addDate": 1718526687700,
+				"title": "比格披萨自助签到",
+				"icon": "https://raw.githubusercontent.com/sliverkiss/QuantumultX/main/icon/bgps.png",
+				"url": "https://gist.githubusercontent.com/Sliverkiss/4703f7114ad352e97dcd5eaa4dc3e2f5/raw/bgps.js"
+			},
+			{
+				"type": "link",
+				"addDate": 1718526687700,
+				"title": "蜜雪冰城小程序签到",
+				"icon": "https://raw.githubusercontent.com/sliverkiss/QuantumultX/main/icon/mxbc.png",
+				"url": "https://gist.githubusercontent.com/Sliverkiss/865c82e42a5730bb696f6700ebb94cee/raw/mxbc.js"
+			},
+			{
+				"type": "link",
+				"addDate": 1718526687700,
+				"title": "猫耳FM签到",
+				"icon": "https://raw.githubusercontent.com/sliverkiss/QuantumultX/main/icon/missevan.png",
+				"url": "https://gist.githubusercontent.com/Sliverkiss/79fd3bc95310d10bccc45efdab0204fc/raw/missevan.js"
+			},
+			{
+				"type": "link",
+				"addDate": 1718526687700,
+				"title": "卫岗天天订",
+				"icon": "https://raw.githubusercontent.com/sliverkiss/QuantumultX/main/icon/wgttd.png",
+				"url": "https://raw.githubusercontent.com/anyehttp/quantumult-x/main/task/wgttd.js"
+			},
+			{
+				"type": "link",
+				"addDate": 1718526687700,
+				"title": "IQOO社区签到",
+				"icon": "https://raw.githubusercontent.com/czy13724/LeviIcons/main/leviicons/iqooc.png",
+				"url": "https://gist.githubusercontent.com/Sliverkiss/bfc5527ad3ea8ac7b0820ca442442452/raw/iqoo.js"
+			},
+			{
+				"type": "link",
+				"addDate": 1718526687700,
+				"title": "G动",
+				"icon": "https://raw.githubusercontent.com/sliverkiss/QuantumultX/main/icon/gdong.png",
+				"url": "https://raw.githubusercontent.com/WowYiJiu/Personal/main/Script/gdong.js"
+			},
+			{
+				"type": "link",
+				"addDate": 1718526687700,
+				"title": "腾讯体育",
+				"icon": "https://raw.githubusercontent.com/sliverkiss/QuantumultX/main/icon/txty.png",
+				"url": "https://raw.githubusercontent.com/WowYiJiu/Personal/main/Script/txSports.js"
+			},
+			{
+				"type": "link",
+				"addDate": 1718526687700,
+				"title": "星星充电",
+				"icon": "https://raw.githubusercontent.com/WowYiJiu/Personal/main/icon/StarCharge.png",
+				"url": "https://raw.githubusercontent.com/shengetui/qx/main/xxcd.js"
+			},
+			{
+				"type": "link",
+				"addDate": 1718526687700,
+				"title": "蒙牛母婴签到",
+				"icon": "https://raw.githubusercontent.com/czy13724/LeviIcons/main/leviicons/mnmy.png",
+				"url": "https://raw.githubusercontent.com/czy13724/Quantumult-X/main/scripts/mnmy.js"
+			},
+			{
+				"type": "link",
+				"addDate": 1718526687700,
+				"title": "杜蕾斯会员中心签到",
+				"icon": "https://raw.githubusercontent.com/czy13724/LeviIcons/main/leviicons/dls.png",
+				"url": "https://raw.githubusercontent.com/czy13724/Quantumult-X/main/scripts/dls.js"
+			},
+			{
+				"type": "link",
+				"addDate": 1718526687700,
+				"title": "正佳广场小程序签到",
+				"icon": "https://raw.githubusercontent.com/sliverkiss/QuantumultX/main/icon/zhengjia.png",
+				"url": "https://raw.githubusercontent.com/shufflewzc/faker/main/zhengjia.js"
+			},
+			{
+				"type": "link",
+				"addDate": 1718526687700,
+				"title": "V2ex签到",
+				"icon": "https://raw.githubusercontent.com/sliverkiss/QuantumultX/main/icon/v2ex.png",
+				"url": "https://raw.githubusercontent.com/anyehttp/quantumult-x/main/task/v2ex.js"
+			},
+			{
+				"type": "link",
+				"addDate": 1718526687700,
+				"title": "晓晓霸王餐",
+				"icon": "https://raw.githubusercontent.com/sliverkiss/QuantumultX/main/icon/xxyx.png",
+				"url": "https://gist.githubusercontent.com/Sliverkiss/991a81be1fc8cf2a1937432be68f5521/raw/xxyx.js"
+			},
+			{
+				"type": "link",
+				"addDate": 1718526687700,
+				"title": "胖乖生活",
+				"icon": "https://raw.githubusercontent.com/sliverkiss/QuantumultX/main/icon/pgsh.png",
+				"url": "https://gist.githubusercontent.com/Sliverkiss/845cf469e4762afdc83c3949be006609/raw/pgsh.js"
+			},
+			{
+				"type": "link",
+				"addDate": 1718526687700,
+				"title": "杰士邦安心福利社",
+				"icon": "https://raw.githubusercontent.com/sliverkiss/QuantumultX/main/icon/jsb.png",
+				"url": "https://gist.githubusercontent.com/Sliverkiss/6d15658e313eee254a55d2b97933587c/raw/jsb.js"
+			},
+			{
+				"type": "link",
+				"addDate": 1718526687700,
+				"title": "PP停车",
+				"icon": "https://raw.githubusercontent.com/sliverkiss/QuantumultX/main/icon/pp_parking.png",
+				"url": "https://raw.githubusercontent.com/FoKit/Scripts/main/scripts/pp_parking.js"
+			},
+			{
+				"type": "link",
+				"addDate": 1718526687700,
+				"title": "小米刷步",
+				"icon": "https://raw.githubusercontent.com/Yuheng0101/X/main/Tasks/mi/color.png",
+				"url": "https://raw.githubusercontent.com/Yuheng0101/X/main/Tasks/mi/step.js"
+			},
+			{
+				"type": "link",
+				"addDate": 1718526687700,
+				"title": "摸鱼来啦",
+				"icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/67/04/ff/6704ff4c-b49b-de91-70ac-201c62d5296f/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/144x144bb.png",
+				"url": "https://raw.githubusercontent.com/Yuheng0101/X/main/Tasks/moyu.js"
+			},
+			{
+				"type": "link",
+				"addDate": 1718526687700,
+				"title": "微博签到",
+				"icon": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Weibo-00.png",
+				"url": "https://raw.githubusercontent.com/GoodHolidays/Scripts/master/Task/weibo.js"
+			},
+			{
+				"type": "link",
+				"addDate": 1718526687700,
+				"title": "龙湖天街签到",
+				"icon": "https://raw.githubusercontent.com/leiyiyan/resource/main/icons/lhtj.png",
+				"url": "https://raw.githubusercontent.com/leiyiyan/resource/main/script/lhtj/lhtj.js"
+			},
+			{
+				"type": "link",
+				"addDate": 1718526687700,
+				"title": "唯品会签到",
+				"icon": "https://raw.githubusercontent.com/sliverkiss/QuantumultX/main/icon/wph.png",
+				"url": "https://raw.githubusercontent.com/panghujiajia/Scripts/master/WPH/Scripts/SignIn.js"
+			},
+			{
+				"type": "link",
+				"addDate": 1718526687700,
+				"title": "唯品会自动续期",
+				"icon": "https://raw.githubusercontent.com/sliverkiss/QuantumultX/main/icon/wph.png",
+				"url": "https://gist.githubusercontent.com/Sliverkiss/e33d541ad290c73fa53c2ed660db8230/raw/WPH.RefreshCookie.js"
+			},
+			{
+				"type": "link",
+				"addDate": 1718526687700,
+				"title": "柠季签到",
+				"icon": "https://raw.githubusercontent.com/leiyiyan/resource/main/icons/ningji.png",
+				"url": "https://raw.githubusercontent.com/leiyiyan/resource/main/script/ningji/ningji.js"
+			},
+			{
+				"type": "link",
+				"addDate": 1718526687700,
+				"title": "永旺Aeon签到",
+				"icon": "https://raw.githubusercontent.com/sliverkiss/QuantumultX/main/icon/aeon.png",
+				"url": "https://raw.githubusercontent.com/FoKit/Scripts/main/scripts/aeon_sign.js"
+			},
+			{
+				"type": "link",
+				"addDate": 1718526687700,
+				"title": "万达智慧商业签到",
+				"icon": "https://raw.githubusercontent.com/leiyiyan/resource/main/icons/wdzhsy.png",
+				"url": "https://raw.githubusercontent.com/leiyiyan/resource/main/script/wdzhsy/wdzhsy.js"
+			},
+			{
+				"type": "link",
+				"addDate": 1718526687700,
+				"title": "海底捞签到",
+				"icon": "https://raw.githubusercontent.com/sliverkiss/QuantumultX/main/icon/hdl.png",
+				"url": "https://gist.githubusercontent.com/Sliverkiss/354e7994f9ee5cc9cc353b6aba320052/raw/hdl.js"
+			},
+			{
+				"type": "link",
+				"addDate": 1718526687700,
+				"title": "丘大叔柠檬茶",
+				"icon": "https://raw.githubusercontent.com/sliverkiss/QuantumultX/main/icon/qdsnmc.png",
+				"url": "https://gist.githubusercontent.com/Sliverkiss/f1b7aa36b15506d6b6f895585b000fa2/raw/qdsnmc.js"
+			},
+			{
+				"type": "link",
+				"addDate": 1718526687700,
+				"title": "哈根达斯",
+				"icon": "https://raw.githubusercontent.com/sliverkiss/QuantumultX/main/icon/hgds.png",
+				"url": "https://raw.githubusercontent.com/xzxxn777/Surge/main/Script/HGDS/HGDS.js"
+			},
+			{
+				"type": "link",
+				"addDate": 1718526687700,
+				"title": "奈雪的茶",
+				"icon": "https://raw.githubusercontent.com/sliverkiss/QuantumultX/main/icon/naixue.png",
+				"url": "https://gist.githubusercontent.com/Sliverkiss/4d0e9572b99530b7cb0e7298622aa2a9/raw/naixue.js"
+			},
+			{
+				"type": "link",
+				"addDate": 1718526687700,
+				"title": "康佰家",
+				"icon": "https://raw.githubusercontent.com/sliverkiss/QuantumultX/main/icon/Kbj.png",
+				"url": "https://gist.githubusercontent.com/Sliverkiss/48154e5277d87f9810d6b13b2b98f12a/raw/kbj.js"
+			},
+			{
+				"type": "link",
+				"addDate": 1718526687700,
+				"title": "希望云社区",
+				"icon": "https://raw.githubusercontent.com/sliverkiss/QuantumultX/main/icon/xwy.png",
+				"url": "https://raw.githubusercontent.com/Sliverkiss/GoodNight/master/Script/xwy.js"
+			},
+			{
+				"type": "link",
+				"addDate": 1718526687700,
+				"title": "巴士论坛签到",
+				"icon": "https://raw.githubusercontent.com/Yuheng0101/X/main/Assets/bus.png",
+				"url": "https://raw.githubusercontent.com/Yuheng0101/X/main/Tasks/javbus.js"
+			},
+			{
+				"type": "link",
+				"addDate": 1718526687700,
+				"title": "海天美味馆",
+				"icon": "https://raw.githubusercontent.com/sliverkiss/QuantumultX/main/icon/htmwg.png",
+				"url": "https://raw.githubusercontent.com/xzxxn777/Surge/main/Script/HaiTian/HaiTian.js"
+			},
+			{
+				"type": "link",
+				"addDate": 1718526687700,
+				"title": "中兴手机商城",
+				"icon": "https://raw.githubusercontent.com/sliverkiss/QuantumultX/main/icon/zte.png",
+				"url": "https://raw.githubusercontent.com/xzxxn777/Surge/main/Script/ZTE/ZTE.js"
+			},
+			{
+				"type": "link",
+				"addDate": 1718526687700,
+				"title": "中兴社区",
+				"icon": "https://raw.githubusercontent.com/sliverkiss/QuantumultX/main/icon/zte.png",
+				"url": "https://raw.githubusercontent.com/xzxxn777/Surge/main/Script/ZTE/ZTE_Community.js"
+			},
+			{
+				"type": "link",
+				"addDate": 1718526687700,
+				"title": "好奇车生活",
+				"icon": "https://raw.githubusercontent.com/sliverkiss/QuantumultX/main/icon/Cheryl%E2%80%99s.png",
+				"url": "https://raw.githubusercontent.com/xzxxn777/Surge/main/Script/Cheryfs/Cheryfs.js"
+			},
+			{
+				"type": "link",
+				"addDate": 1718526687700,
+				"title": "红牛会员俱乐部",
+				"icon": "https://raw.githubusercontent.com/sliverkiss/QuantumultX/main/icon/redbull.png",
+				"url": "https://raw.githubusercontent.com/xzxxn777/Surge/main/Script/RedBull/RedBull.js"
+			},
+			{
+				"type": "link",
+				"addDate": 1718526687700,
+				"title": "攀升科技+",
+				"icon": "https://raw.githubusercontent.com/sliverkiss/QuantumultX/main/icon/pskj.png",
+				"url": "https://raw.githubusercontent.com/xzxxn777/Surge/main/Script/PSKJ/PSKJ.js"
+			},
+			{
+				"type": "link",
+				"addDate": 1718526687700,
+				"title": "泡泡玛特",
+				"icon": "https://raw.githubusercontent.com/sliverkiss/QuantumultX/main/icon/ppmt.png",
+				"url": "https://gist.githubusercontent.com/Sliverkiss/3e1fe82fa18dbcff9b2ae7fdad7596a6/raw/ppmt.js"
+			},
+			{
+				"type": "link",
+				"addDate": 1718526687700,
+				"title": "联想赚金豆",
+				"icon": "https://raw.githubusercontent.com/sliverkiss/QuantumultX/main/icon/lenovo.png",
+				"url": "https://gist.githubusercontent.com/Sliverkiss/b9eaf7c8d98df06087851c3e1d5040cf/raw/lenovo.js"
+			},
+			{
+				"type": "link",
+				"addDate": 1718526687700,
+				"title": "上汽大众",
+				"icon": "https://raw.githubusercontent.com/sliverkiss/QuantumultX/main/icon/sqdz.png",
+				"url": "https://raw.githubusercontent.com/wf021325/qx/master/task/csvw.js"
+			},
+			{
+				"type": "link",
+				"addDate": 1718526687700,
+				"title": "顺丰速运",
+				"icon": "https://raw.githubusercontent.com/sliverkiss/QuantumultX/main/icon/sfsy.png",
+				"url": "https://gist.githubusercontent.com/Sliverkiss/1fb1cf9cd7486d30752b1ba29b871e37/raw/sfsy.js"
+			},
+			{
+				"type": "link",
+				"addDate": 1718526687700,
+				"title": "zippo",
+				"icon": "https://raw.githubusercontent.com/Yuheng0101/X/main/Assets/zippo.jpg",
+				"url": "jhttps://raw.githubusercontent.com/Yuheng0101/X/main/Tasks/zippo.jss"
+			},
+			{
+				"type": "link",
+				"addDate": 1718526687700,
+				"title": "小蚕霸王餐",
+				"icon": "https://raw.githubusercontent.com/sliverkiss/QuantumultX/main/icon/xcbwc.png",
+				"url": "https://gist.githubusercontent.com/Sliverkiss/250a02315f0a2c99f42da3b3573375c8/raw/xcbwc.js"
+			},
+			{
+				"type": "link",
+				"addDate": 1718526687700,
+				"title": "吉利汽车",
+				"icon": "https://raw.githubusercontent.com/sliverkiss/QuantumultX/main/icon/geely.png",
+				"url": "https://raw.githubusercontent.com/wf021325/qx/master/task/geely.js"
+			},
+			{
+				"type": "link",
+				"addDate": 1718526687700,
+				"title": "极氪汽车",
+				"icon": "https://raw.githubusercontent.com/sliverkiss/QuantumultX/main/icon/zeekr.png",
+				"url": "https://raw.githubusercontent.com/wf021325/qx/master/task/zeekr.js"
+			},
+			{
+				"type": "link",
+				"addDate": 1718526687700,
+				"title": "沃尔沃汽车",
+				"icon": "https://raw.githubusercontent.com/sliverkiss/QuantumultX/main/icon/volvo.png",
+				"url": "https://raw.githubusercontent.com/wf021325/qx/main/task/volvo.js"
+			},
+			{
+				"type": "link",
+				"addDate": 1718526687700,
+				"title": "非凡汽车",
+				"icon": "https://raw.githubusercontent.com/sliverkiss/QuantumultX/main/icon/ffqc.png",
+				"url": "https://raw.githubusercontent.com/wf021325/qx/master/task/ffqc.js"
+			},
+			{
+				"type": "link",
+				"addDate": 1718526687700,
+				"title": "腾讯视频签到",
+				"icon": "https://raw.githubusercontent.com/sliverkiss/QuantumultX/main/icon/tenvideo.png",
+				"url": "https://raw.githubusercontent.com/WowYiJiu/Personal/main/Script/tenvideo.js"
+			},
+			{
+				"type": "link",
+				"addDate": 1718526687700,
+				"title": "日产智联签到",
+				"icon": "https://raw.githubusercontent.com/sliverkiss/QuantumultX/main/icon/nissan.png",
+				"url": "https://raw.githubusercontent.com/wf021325/qx/master/task/nissan.js"
+			},
+			{
+				"type": "link",
+				"addDate": 1718526687700,
+				"title": "今日越城",
+				"icon": "https://raw.githubusercontent.com/sliverkiss/QuantumultX/main/icon/jryc.png",
+				"url": "https://raw.githubusercontent.com/xzxxn777/Surge/main/Script/YueCheng/YueCheng.js"
+			},
+			{
+				"type": "link",
+				"addDate": 1718526687700,
+				"title": "甬派",
+				"icon": "https://raw.githubusercontent.com/sliverkiss/QuantumultX/main/icon/yongpai.png",
+				"url": "https://raw.githubusercontent.com/xzxxn777/Surge/main/Script/YongPai/YongPai.js"
+			},
+			{
+				"type": "link",
+				"addDate": 1718526687700,
+				"title": "红旗智联",
+				"icon": "https://raw.githubusercontent.com/sliverkiss/QuantumultX/main/icon/hqzl.png",
+				"url": "https://raw.githubusercontent.com/xzxxn777/Surge/main/Script/HQZL/HQZL.js"
+			},
+			{
+				"type": "link",
+				"addDate": 1718526687700,
+				"title": "福田e家",
+				"icon": "https://raw.githubusercontent.com/sliverkiss/QuantumultX/main/icon/ftej.png",
+				"url": "https://raw.githubusercontent.com/xzxxn777/Surge/main/Script/FTEJ/FTEJ.js"
+			},
+			{
+				"type": "link",
+				"addDate": 1718526687700,
+				"title": "尊享金陵",
+				"icon": "https://raw.githubusercontent.com/sliverkiss/QuantumultX/main/icon/zxjl.png",
+				"url": "https://raw.githubusercontent.com/xzxxn777/Surge/main/Script/ZXJL/ZXJL.js"
+			},
+			{
+				"type": "link",
+				"addDate": 1718526687700,
+				"title": "顾家家居",
+				"icon": "https://raw.githubusercontent.com/sliverkiss/QuantumultX/main/icon/gjjj.png",
+				"url": "https://raw.githubusercontent.com/xzxxn777/Surge/main/Script/GJJJ/GJJJ.js"
+			},
+			{
+				"type": "link",
+				"addDate": 1718526687700,
+				"title": "丰信客户端",
+				"icon": "https://raw.githubusercontent.com/sliverkiss/QuantumultX/main/icon/fengxin.png",
+				"url": "https://raw.githubusercontent.com/xzxxn777/Surge/main/Script/FengXin/FengXin.js"
+			},
+			{
+				"type": "link",
+				"addDate": 1718526687700,
+				"title": "安徽电信",
+				"icon": "https://raw.githubusercontent.com/sliverkiss/QuantumultX/main/icon/ahdx.png",
+				"url": "https://raw.githubusercontent.com/xzxxn777/Surge/main/Script/AnHuiTelecom/AnHuiTelecom.js"
+			},
+			{
+				"type": "link",
+				"addDate": 1718526687700,
+				"title": "广汽丰田",
+				"icon": "https://raw.githubusercontent.com/sliverkiss/QuantumultX/main/icon/gqft.png",
+				"url": "https://raw.githubusercontent.com/xzxxn777/Surge/main/Script/GQFT/GQFT.js"
+			},
+			{
+				"type": "link",
+				"addDate": 1718526687700,
+				"title": "青岛新闻",
+				"icon": "https://raw.githubusercontent.com/sliverkiss/QuantumultX/main/icon/qdxw.png",
+				"url": "https://raw.githubusercontent.com/xzxxn777/Surge/main/Script/QingDaoNews/QingDaoNews.js"
+			},
+			{
+				"type": "link",
+				"addDate": 1718526687700,
+				"title": "逢三得利吧",
+				"icon": "https://raw.githubusercontent.com/sliverkiss/QuantumultX/main/icon/sdl.png",
+				"url": "https://raw.githubusercontent.com/xzxxn777/Surge/main/Script/SDL/SDL.js"
+			},
+			{
+				"type": "link",
+				"addDate": 1718526687700,
+				"title": "掌上武义",
+				"icon": "https://raw.githubusercontent.com/sliverkiss/QuantumultX/main/icon/zswy.png",
+				"url": "https://raw.githubusercontent.com/xzxxn777/Surge/main/Script/ZSWY/ZSWY.js"
+			},
+			{
+				"type": "link",
+				"addDate": 1718526687700,
+				"title": "潇洒桐庐",
+				"icon": "https://raw.githubusercontent.com/sliverkiss/QuantumultX/main/icon/xstl.png",
+				"url": "https://raw.githubusercontent.com/xzxxn777/Surge/main/Script/TongLu/TongLu.js"
+			},
+			{
+				"type": "link",
+				"addDate": 1718526687700,
+				"title": "新江北",
+				"icon": "https://raw.githubusercontent.com/sliverkiss/QuantumultX/main/icon/xjb.png",
+				"url": "https://raw.githubusercontent.com/xzxxn777/Surge/main/Script/XinJiangBei/XinJiangBei.js"
+			},
+			{
+				"type": "link",
+				"addDate": 1718526687700,
+				"title": "望潮",
+				"icon": "https://raw.githubusercontent.com/sliverkiss/QuantumultX/main/icon/wamgchao.png",
+				"url": "https://raw.githubusercontent.com/xzxxn777/Surge/main/Script/WangChao/WangChao.js"
+			},
+			{
+				"type": "link",
+				"addDate": 1718526687700,
+				"title": "兰精灵",
+				"icon": "https://raw.githubusercontent.com/sliverkiss/QuantumultX/main/icon/ljl.png",
+				"url": "https://raw.githubusercontent.com/xzxxn777/Surge/main/Script/LanJingLing/LanJingLing.js"
+			},
+			{
+				"type": "link",
+				"addDate": 1718526687700,
+				"title": "融磐安",
+				"icon": "https://raw.githubusercontent.com/sliverkiss/QuantumultX/main/icon/rpa.png",
+				"url": "https://raw.githubusercontent.com/xzxxn777/Surge/main/Script/RongPanAn/RongPanAn.js"
+			},
+			{
+				"type": "link",
+				"addDate": 1718526687700,
+				"title": "掌上金东",
+				"icon": "https://raw.githubusercontent.com/sliverkiss/QuantumultX/main/icon/zsjd.png",
+				"url": "https://raw.githubusercontent.com/xzxxn777/Surge/main/Script/ZSJD/ZSJD.js"
+			},
+			{
+				"type": "link",
+				"addDate": 1718526687700,
+				"title": "爱路桥",
+				"icon": "https://raw.githubusercontent.com/sliverkiss/QuantumultX/main/icon/alq.png",
+				"url": "https://raw.githubusercontent.com/xzxxn777/Surge/main/Script/AiLuQiao/AiLuQiao.js"
+			},
+			{
+				"type": "link",
+				"addDate": 1718526687700,
+				"title": "大潮",
+				"icon": "https://raw.githubusercontent.com/sliverkiss/QuantumultX/main/icon/dachao.png",
+				"url": "https://raw.githubusercontent.com/xzxxn777/Surge/main/Script/DaChao/DaChao.js"
+			},
+			{
+				"type": "link",
+				"addDate": 1718526687700,
+				"title": "今日越城",
+				"icon": "https://raw.githubusercontent.com/sliverkiss/QuantumultX/main/icon/jryc.png",
+				"url": "https://raw.githubusercontent.com/xzxxn777/Surge/main/Script/YueCheng/YueCheng.js"
+			},
+			{
+				"type": "link",
+				"addDate": 1718526687700,
+				"title": "西施眼",
+				"icon": "https://raw.githubusercontent.com/sliverkiss/QuantumultX/main/icon/xsy.png",
+				"url": "https://raw.githubusercontent.com/xzxxn777/Surge/main/Script/XiShiYan/XiShiYan.js"
+			},
+			{
+				"type": "link",
+				"addDate": 1718526687700,
+				"title": "日清食品体验馆",
+				"icon": "https://raw.githubusercontent.com/sliverkiss/QuantumultX/main/icon/rqsp.png",
+				"url": "https://raw.githubusercontent.com/xzxxn777/Surge/main/Script/RQSP/RQSP.js"
+			},
+			{
+				"type": "link",
+				"addDate": 1718526687700,
+				"title": "麦斯威尔福利社",
+				"icon": "https://raw.githubusercontent.com/Xhy333/QuantumultX/main/icon/Mswer.png",
+				"url": "https://raw.githubusercontent.com/xzxxn777/Surge/main/Script/MSWEFLS/MSWEFLS.js"
+			}
+		]
 	}]
 }]
